@@ -43,8 +43,8 @@ The goal of this project is to progressively build real-world skills and a solid
 
 ## 👩‍💻 Author
 
-**[Your Name]**  
-Full Stack Web Development Student at [WBS Coding School](https://www.wbscodingschool.com)
+**[Bhavesh Shah]**  
+Full Stack Web Development Student at WBS Coding School.
 
 ---
 
